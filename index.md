@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Your one-stop billing service for Singapore's Government.
+      title: Hero title
       background: /images/hero-banner.png
       variant: side
       backgroundColor: gray

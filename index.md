@@ -14,18 +14,19 @@ sections:
       size: md
       alignment: left
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: Regular System Maintenance
       id: infobar
-      description: Infobar description
+      description: Please note that the system will not be available between 0500hrs
+        to 0600hrs, and 1900hrs to 1930hrs (GMT+8) from Mon to Sat.
   - announcements:
-      title: Announcements
+      title: Latest Updates
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
-          date: 02 July 2024
-          announcement: Announcement content
+        - title: (For self-employed persons) Update to PayNow
+          date: 05 June 2024
+          announcement: With effect from 8 Jun 2024, PayNow NRIC or UEN (for business
+            entities) will be the sole payment mode for self-employed persons
+            (SEPs) to receive service fee payments from any government agencies.
           link_text: ""
           link_url: ""
 ---
